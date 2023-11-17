@@ -1,0 +1,3 @@
+Flow ID,Description,Test Steps,Flow Priority
+1,Verify successful navigation to Developer Authentication Login page,"step 1: Navigate to Page Dev auth login
+step 2: Add visual checkpoint at Page Dev auth login",High
