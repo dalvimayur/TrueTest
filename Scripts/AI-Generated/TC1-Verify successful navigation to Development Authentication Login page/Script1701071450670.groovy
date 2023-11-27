@@ -15,7 +15,7 @@ WebUI.navigateToUrl(GlobalVariable.application_domain + '/Dev/auth/login')
 
 'step 2: Add visual checkpoint at Page Dev auth login'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC1-Verify successful navigation to Developer Authentication Login page_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC1-Verify successful navigation to Development Authentication Login page_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
