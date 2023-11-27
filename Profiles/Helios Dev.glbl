@@ -2,6 +2,16 @@
 <GlobalVariableEntities>
     <GlobalVariableEntity>
         <description></description>
+        <initValue>'TrueTestUser'</initValue>
+        <name>username</name>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'truetestuser@900'</initValue>
+        <name>password</name>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description></description>
         <initValue>'https://54.69.219.166/Dev'</initValue>
         <name>application_domain</name>
     </GlobalVariableEntity>
